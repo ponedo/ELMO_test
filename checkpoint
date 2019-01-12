@@ -1,2 +1,0 @@
-model_checkpoint_path: "/home/panda/PycharmProjects/project2/models/TextCNN_with_elmo/4-classifier/label0/TextCNN_with_elmo-10"
-all_model_checkpoint_paths: "/home/panda/PycharmProjects/project2/models/TextCNN_with_elmo/4-classifier/label0/TextCNN_with_elmo-10"
